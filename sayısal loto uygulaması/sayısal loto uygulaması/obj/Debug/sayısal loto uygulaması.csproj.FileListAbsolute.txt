@@ -1,0 +1,8 @@
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\sayısal loto uygulaması\sayısal loto uygulaması\bin\Debug\sayısal loto uygulaması.exe.config
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\sayısal loto uygulaması\sayısal loto uygulaması\bin\Debug\sayısal loto uygulaması.exe
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\sayısal loto uygulaması\sayısal loto uygulaması\bin\Debug\sayısal loto uygulaması.pdb
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\sayısal loto uygulaması\sayısal loto uygulaması\obj\Debug\sayısal loto uygulaması.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\sayısal loto uygulaması\sayısal loto uygulaması\obj\Debug\sayısal loto uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\sayısal loto uygulaması\sayısal loto uygulaması\obj\Debug\sayısal loto uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\sayısal loto uygulaması\sayısal loto uygulaması\obj\Debug\sayısal loto uygulaması.exe
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\sayısal loto uygulaması\sayısal loto uygulaması\obj\Debug\sayısal loto uygulaması.pdb
